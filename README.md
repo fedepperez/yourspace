@@ -105,11 +105,3 @@ Inserisci qui gli screenshot del progetto.
 
 📝 Licenza
 Questo progetto è distribuito sotto licenza MIT.
-
-
-### 💡 Piccolo consiglio
-Ricordati di aggiornare anche il file **HTML** (`index.php` o `index.html`) che ti ho mandato prima, cambiando il titolo nel tag `<title>` e nell'`<h1>`:
-
-```html
-<title>YourSpace - Social Network</title>
-<h1>YourSpace</h1>
