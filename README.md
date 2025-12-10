@@ -1,2 +1,2 @@
-# myspace_clone
-un wannabe myspace
+# YourSpace
+Un clone di MySpace
